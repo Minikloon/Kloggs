@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kloggs.iml" filepath="$PROJECT_DIR$/.idea/modules/kloggs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kloggs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kloggs_main.iml" group="kloggs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kloggs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kloggs_test.iml" group="kloggs" />
+    </modules>
+  </component>
+</project>
