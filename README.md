@@ -19,9 +19,9 @@ Maven:
     <url>https://jitpack.io</url>
 </repository>
 <dependency>
-    <groupId>com.github.User</groupId>
-    <artifactId>Repo</artifactId>
-    <version>Tag</version>
+    <groupId>com.github.Minikloon</groupId>
+    <artifactId>Kloggs</artifactId>
+    <version>[Version Tag]</version>
 </dependency>
 ```
 
@@ -32,7 +32,7 @@ repositories {
 	maven { url 'https://jitpack.io' }
 }
 dependencies {
-	compile 'com.github.User:Repo:Tag'
+	compile 'com.github.Minikloon:Kloggs:[Version Tag]'
 }
 ```
 
